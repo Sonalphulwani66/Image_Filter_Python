@@ -85,7 +85,7 @@ def sepia(r,g,b):
     newb = int((r * .272) + (g *.534) + (b * .131))
     return (newr,newg,newb)
 choice = '''
-enter you choice
+enter your choice
 1:red
 2:darkpink
 3:skybule
